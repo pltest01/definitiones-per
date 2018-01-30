@@ -1,0 +1,39 @@
+Updating b91452d..1f72ff9
+Fast-forward
+ fileXASD.txt                                |  9 +++++++++
+ "new/file01 \342\200\224 kopia (2).txt"     | 13 +++++++++++++
+ "new/file01 \342\200\224 kopia.txt"         |  7 +++++++
+ new/file01.txt                              | 12 ++++++++++++
+ "new/file2 \342\200\224 kopia (2).txt"      | 11 +++++++++++
+ "new/file2 \342\200\224 kopia.txt"          | 15 +++++++++++++++
+ new/file2.txt                               | 11 +++++++++++
+ "nowszy/dfsdsffsdsf \342\200\224 kopia.txt" |  6 ++++++
+ nowszy/dfsdsffsdsf.txt                      |  6 ++++++
+ "nowszy/poqwiq ads \342\200\224 kopia.txt"  |  1 +
+ nowszy/poqwiq ads.txt                       |  1 +
+ "nowy/asdd \342\200\224 kopia.txt"          |  4 ++++
+ nowy/asdd.txt                               |  2 ++
+ "nowy/dissentias \342\200\224 kopia.txt"    |  1 +
+ nowy/dissentias.txt                         |  1 +
+ 15 files changed, 100 insertions(+)
+ create mode 100644 "new/file01 \342\200\224 kopia (2).txt"
+ create mode 100644 "new/file01 \342\200\224 kopia.txt"
+ create mode 100644 new/file01.txt
+ create mode 100644 "new/file2 \342\200\224 kopia (2).txt"
+ create mode 100644 "new/file2 \342\200\224 kopia.txt"
+ create mode 100644 new/file2.txt
+ create mode 100644 "nowszy/dfsdsffsdsf \342\200\224 kopia.txt"
+ create mode 100644 nowszy/dfsdsffsdsf.txt
+ create mode 100644 "nowszy/poqwiq ads \342\200\224 kopia.txt"
+ create mode 100644 nowszy/poqwiq ads.txt
+ create mode 100644 "nowy/asdd \342\200\224 kopia.txt"
+ create mode 100644 nowy/asdd.txt
+ create mode 100644 "nowy/dissentias \342\200\224 kopia.txt"
+ create mode 100644 nowy/dissentias.txt
+remote: Counting objects: 110, done.
+remote: Compressing objects: 100% (57/57), done.
+remote: Total 110 (delta 42), reused 101 (delta 33), pack-reused 0
+Receiving objects: 100% (110/110), 8.51 KiB | 0 bytes/s, done.
+Resolving deltas: 100% (42/42), done.
+From https://github.com/pltest01/definitiones-per
+   b91452d..1f72ff9  master     -> origin/master
